@@ -1,0 +1,43 @@
+{% extends 'layout.html.twig' %}
+{% block title %}Ajouter - {{ parent }}{% endblock %}
+{% block content %}
+ <main class="container">
+    <h1>Créer un deck</h1>
+    <form action="{{ url('/creadeck') }}" method="post" class="w-50" enctype="multipart/form-data">
+      <div class="mb-3">
+        <label class="form-label">Titre deck <span class="required-info">*</span> :</label>
+        <input name="titre" type="int" class="form-control" required>
+      </div>
+      <div class="mb-3">
+        <label class="form-label" for="dateNaissance">Date de début de deck <span class="required-info">*</span> :</label>
+        <input name="dateDebut" type="date" class="form-control" id="dateDebut" required>
+      </div>
+      <div class="mb-3">
+        <label class="form-label" for="dateNaissance">Date de fin de deck <span class="required-info">*</span> :</label>
+        <input name="dateFin" type="date" class="form-control" id="dateFin" required>
+      </div>
+      <div class="mb-3">
+        <label class="form-label">nb_cartes <span class="required-info">*</span> :</label>
+        <input name="nombre" type="int" class="form-control w-50" required>
+      </div>
+       <div class="mb-3">
+        <label class="form-label">nb_jaime <span class="required-info">*</span> :</label>
+        <input name="jaime" type="int" class="form-control w-50" required>
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Administrateur du deck <span class="required-info">*</span> :</label>
+        <select name="administrateur" class="form-select" required>
+            <option value="" disabled selected>Choisir un administrateur</option>
+            {% for admin in administrateurs %}
+                <option value="{{ admin.id_administrateur }}">{{ admin.ad_mail_admin }}</option>
+            {% endfor %}
+        </select>
+      </div>
+
+
+      <p class="text-danger fs-6">Les données marquées d'une astérisque sont obligatoires.</p>
+      <button type="submit" class="btn btn-primary">Validation</button>
+      <a href="{{ url('/adminaccueilverif') }}" class="btn btn-link text-black">annuler</a>
+    </form>
+  </main>
+  {% endblock %}

@@ -1,0 +1,37 @@
+{% extends 'layout.html.twig' %}
+{% block title %}Liste - {{parent()}}{% endblock %}
+{% block css %}
+<style>
+    h1{
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        font-size: 3rem;
+        color: #007bff;
+    }
+    .content {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .btn {
+        padding: 10px 20px;
+        font-size: 1.2rem;
+    }
+    .m-4 {
+        margin: 0 20px;
+    }
+
+</style>
+{% endblock %}
+{% block content %}
+
+<h1>Bienvenue sur Reins</h1>
+<div class="content">
+    <a href="{{ url('/Auth/connection') }}" class="btn btn-primary m-4">Se connecter</a>
+    <a href="{{ url('/Auth/inscription') }}" class="btn btn-primary m-4">Inscription</a>
+</div>
+
+{% endblock %}
+
+

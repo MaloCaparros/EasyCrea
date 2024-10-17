@@ -2,6 +2,7 @@
 /*
   Fichier : src/Model/Model.php
 */
+
 declare(strict_types=1);
 
 namespace App\Model;
@@ -60,7 +61,7 @@ class Model
         }
     }
 
-     /**
+    /**
      * Retourne les informations d'un identifiant.
      *
      * @param  integer  $id identifiant de la donnée
@@ -78,6 +79,8 @@ class Model
         return null;
     }
 
+
+
     /**
      * Retourne toutes les informations de la table.
      *
@@ -92,6 +95,7 @@ class Model
         }
         return [];
     }
+    
 
     /**
      * Retourne les informations associées à un/des critères.
@@ -125,6 +129,8 @@ class Model
         $result = $this->findAllBy($criterias);
         return $result ? $result[0] : null;
     }
+
+    
 
     /**
      * Indique si l'identifiant existe déjà dans la base.

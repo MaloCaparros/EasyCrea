@@ -1,0 +1,555 @@
+[2024-10-14 13:18:27]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'avatar@index',
+        2 => array(),
+    )
+    exception-line: 234
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'easycrea.avatar' doesn't exist'
+[2024-10-14 13:18:29]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'avatar@index',
+        2 => array(),
+    )
+    exception-line: 234
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'easycrea.avatar' doesn't exist'
+[2024-10-14 13:19:09]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'avatar@index',
+        2 => array(),
+    )
+    exception-line: 234
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'easycrea.avatar' doesn't exist'
+[2024-10-14 13:19:25]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'avatar@index',
+        2 => array(),
+    )
+    exception-line: 234
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'easycrea.avatar' doesn't exist'
+[2024-10-14 13:20:10]	[ALERT]	404 - commande non existante :: /index.php
+[2024-10-14 13:21:40]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'avatar@index',
+        2 => array(),
+    )
+    exception-line: 234
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'easycrea.avatar' doesn't exist'
+[2024-10-14 13:26:33]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'avatar@index',
+        2 => array(),
+    )
+    exception-line: 234
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'easycrea.avatar' doesn't exist'
+[2024-10-14 13:26:51]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'avatar@index',
+        2 => array(),
+    )
+    exception-line: 234
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'easycrea.avatar' doesn't exist'
+[2024-10-14 13:33:32]	[ALERT]	500 - le contrôleur App\Controller\IndexController n'existe pas
+[2024-10-14 13:36:48]	[ALERT]	500 - le contrôleur App\Controller\IndexController n'existe pas
+[2024-10-14 13:40:58]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@index',
+        2 => array(),
+    )
+    exception-line: 14
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\index.html.twig'
+    exception-code: 'Unknown "path" function.'
+[2024-10-14 13:43:25]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@index',
+        2 => array(),
+    )
+    exception-line: 14
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\index.html.twig'
+    exception-code: 'Unknown "path" function.'
+[2024-10-14 13:43:28]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@index',
+        2 => array(),
+    )
+    exception-line: 14
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\index.html.twig'
+    exception-code: 'Unknown "path" function.'
+[2024-10-14 13:49:32]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@index',
+        2 => array(),
+    )
+    exception-line: 14
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\index.html.twig'
+    exception-code: 'Unknown "path" function.'
+[2024-10-14 13:49:40]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@index',
+        2 => array(),
+    )
+    exception-line: 14
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\index.html.twig'
+    exception-code: 'Unknown "path" function.'
+[2024-10-14 14:05:30]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@index',
+        2 => array(),
+    )
+    exception-line: 9
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\index.html.twig'
+    exception-code: 'Unexpected "endblock" tag (expecting closing tag for the "if" tag defined near line 7).'
+[2024-10-14 14:06:39]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@index',
+        2 => array(),
+    )
+    exception-line: 7
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\index.html.twig'
+    exception-code: 'Unexpected "endblock" tag (expecting closing tag for the "if" tag defined near line 7).'
+[2024-10-14 14:08:00]	[ALERT]	500 - la méthode connection n'existe pas
+[2024-10-14 14:09:03]	[ALERT]	500 - la méthode connection n'existe pas
+[2024-10-14 14:09:06]	[ALERT]	500 - la méthode connection n'existe pas
+[2024-10-14 14:09:09]	[ALERT]	500 - la méthode connection n'existe pas
+[2024-10-14 16:04:59]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 230
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email' in 'field list''
+[2024-10-14 16:05:45]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 230
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email' in 'field list''
+[2024-10-14 16:10:36]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 38
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\Auth\inscription.html.twig'
+    exception-code: 'Unknown "endblock" tag.'
+[2024-10-14 16:10:42]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 38
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\Auth\inscription.html.twig'
+    exception-code: 'Unknown "endblock" tag.'
+[2024-10-14 16:10:46]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 38
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\Auth\inscription.html.twig'
+    exception-code: 'Unknown "endblock" tag.'
+[2024-10-14 16:10:54]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 38
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\Auth\inscription.html.twig'
+    exception-code: 'Unknown "endblock" tag.'
+[2024-10-14 16:11:46]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 38
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\Auth\inscription.html.twig'
+    exception-code: 'Unknown "endblock" tag.'
+[2024-10-14 16:11:52]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 38
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\Auth\inscription.html.twig'
+    exception-code: 'Unknown "endblock" tag.'
+[2024-10-14 16:12:12]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 38
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\Auth\inscription.html.twig'
+    exception-code: 'Unknown "endblock" tag.'
+[2024-10-14 16:12:15]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 38
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\Auth\inscription.html.twig'
+    exception-code: 'Unknown "endblock" tag.'
+[2024-10-14 16:12:50]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 38
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\Auth\inscription.html.twig'
+    exception-code: 'Unknown "endblock" tag.'
+[2024-10-14 16:13:54]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 38
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\Auth\inscription.html.twig'
+    exception-code: 'Unknown "endblock" tag.'
+[2024-10-14 16:15:16]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 38
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\Auth\inscription.html.twig'
+    exception-code: 'Unknown "endblock" tag.'
+[2024-10-14 16:15:21]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 38
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\Auth\inscription.html.twig'
+    exception-code: 'Unknown "endblock" tag.'
+[2024-10-14 16:15:23]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 38
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\Auth\inscription.html.twig'
+    exception-code: 'Unknown "endblock" tag.'
+[2024-10-14 16:15:23]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 38
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\Auth\inscription.html.twig'
+    exception-code: 'Unknown "endblock" tag.'
+[2024-10-14 16:15:23]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 38
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\Auth\inscription.html.twig'
+    exception-code: 'Unknown "endblock" tag.'
+[2024-10-14 16:15:23]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 38
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\Auth\inscription.html.twig'
+    exception-code: 'Unknown "endblock" tag.'
+[2024-10-14 16:15:23]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 38
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\Auth\inscription.html.twig'
+    exception-code: 'Unknown "endblock" tag.'
+[2024-10-14 16:17:09]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 38
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\Auth\inscription.html.twig'
+    exception-code: 'Unknown "endblock" tag.'
+[2024-10-14 16:20:10]	[ALERT]	404 - commande non existante :: /inscription
+[2024-10-14 16:21:58]	[ALERT]	404 - commande non existante :: /inscription
+[2024-10-14 16:22:31]	[ALERT]	404 - commande non existante :: /inscription
+[2024-10-14 16:23:22]	[ALERT]	404 - commande non existante :: /inscription
+[2024-10-14 16:23:47]	[ALERT]	404 - commande non existante :: /inscription
+[2024-10-14 16:29:01]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 230
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email' in 'field list''
+[2024-10-14 16:33:12]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 230
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email' in 'field list''
+[2024-10-14 16:35:39]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 230
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email' in 'field list''
+[2024-10-14 16:36:12]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 230
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email' in 'field list''
+[2024-10-14 16:36:49]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 230
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email' in 'field list''
+[2024-10-14 16:42:02]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 230
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email' in 'field list''
+[2024-10-14 16:47:55]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 230
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email' in 'field list''
+[2024-10-14 16:52:25]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 231
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email' in 'field list''
+[2024-10-14 16:53:43]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 232
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email' in 'field list''
+[2024-10-14 16:58:32]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 230
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email' in 'field list''
+[2024-10-14 17:02:16]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 230
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email' in 'field list''
+[2024-10-14 17:06:22]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 230
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dateNaissance' in 'field list''
+[2024-10-14 17:07:15]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 230
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dateNaissance' in 'field list''
+[2024-10-14 17:11:37]	[ALERT]	404 - commande non existante :: /connexion
+[2024-10-14 17:14:31]	[ALERT]	404 - commande non existante :: /connexion
+[2024-10-14 17:15:27]	[ALERT]	404 - commande non existante :: /connexion
+[2024-10-14 17:20:12]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@connection',
+        2 => array(),
+    )
+    exception-line: 32
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Undefined array key "email"'
+[2024-10-14 17:20:45]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@connection',
+        2 => array(),
+    )
+    exception-line: 33
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Undefined array key "email"'
+[2024-10-14 17:22:15]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@connection',
+        2 => array(),
+    )
+    exception-line: 33
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Undefined array key "email"'
+[2024-10-14 17:22:27]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@connection',
+        2 => array(),
+    )
+    exception-line: 33
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Undefined array key "email"'
+[2024-10-14 17:24:37]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@connection',
+        2 => array(),
+    )
+    exception-line: 33
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Undefined array key "email"'
+[2024-10-14 17:25:10]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@connection',
+        2 => array(),
+    )
+    exception-line: 40
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Attempt to read property "mdp_createur" on array'
+[2024-10-14 17:25:59]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@connection',
+        2 => array(),
+    )
+    exception-line: 40
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Attempt to read property "mdp_createur" on array'
+[2024-10-14 17:27:25]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@connection',
+        2 => array(),
+    )
+    exception-line: 41
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Attempt to read property "mdp_createur" on array'
+[2024-10-14 17:30:07]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@connection',
+        2 => array(),
+    )
+    exception-line: 41
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Attempt to read property "mdp_createur" on array'
+[2024-10-14 17:30:32]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@connection',
+        2 => array(),
+    )
+    exception-line: 40
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Attempt to read property "mdp_createur" on array'
+[2024-10-14 17:31:12]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@connection',
+        2 => array(),
+    )
+    exception-line: 41
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Attempt to read property "mdp_createur" on array'
+[2024-10-14 17:31:44]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@connection',
+        2 => array(),
+    )
+    exception-line: 41
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Attempt to read property "mdp_createur" on array'
+[2024-10-14 17:32:10]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@connection',
+        2 => array(),
+    )
+    exception-line: 40
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Attempt to read property "mdp_createur" on array'

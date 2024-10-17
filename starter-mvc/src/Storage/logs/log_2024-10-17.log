@@ -1,0 +1,99 @@
+[2024-10-17 10:42:03]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 38
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\Auth\inscription.html.twig'
+    exception-code: 'Unknown "endblock" tag.'
+[2024-10-17 10:42:12]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@inscription',
+        2 => array(),
+    )
+    exception-line: 7
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\Auth\inscription.html.twig'
+    exception-code: 'Unknown "endblock" tag.'
+[2024-10-17 11:23:21]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@connection',
+        2 => array(),
+    )
+    exception-line: 81
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-17 11:27:06]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@connection',
+        2 => array(),
+    )
+    exception-line: 81
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-17 11:39:19]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@connection',
+        2 => array(),
+    )
+    exception-line: 99
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-17 11:40:10]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@connection',
+        2 => array(),
+    )
+    exception-line: 99
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-17 11:49:12]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 25
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-17 11:49:42]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 25
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-17 11:50:01]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 25
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-17 11:52:06]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 25
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-17 12:10:31]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 254
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined variable $exists'

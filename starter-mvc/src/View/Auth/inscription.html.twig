@@ -1,0 +1,129 @@
+{% extends 'layout.html.twig' %}
+{% block title %}Ajouter - {{ parent }}{% endblock %}
+{% block css %}
+<style>
+  .required-info {
+    color: red;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+  form {
+    border: 1px solid #000;
+    padding: 20px;
+    border-radius: 10px;
+    width:90%;
+  }
+  .btn {
+    margin-top: 10px;
+  }
+  .btn-link {
+    margin-top: 10px;
+  }
+  .form-control {
+    margin-bottom: 10px;
+  }
+  .text-danger {
+    color: red;
+  }
+  .fs-6 {
+    font-size: 0.8rem;
+  }
+  .text-black {
+    color: black;
+  }
+  .form-label {
+    font-weight: bold;
+  }
+  .form-control {
+    border-radius: 5px;
+  }
+  .form-control:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 0 0.25rem rgb(0 123 255 / 25%);
+  }
+  .form-control::placeholder {
+    color: #007bff;
+  }
+  .form-control[type="date"] {
+    padding: 0.375rem 0.75rem;
+  }
+  .form-control[type="email"] {
+    padding: 0.375rem 0.75rem;
+  }
+  .form-control[type="password"] {
+    padding: 0.375rem 0.75rem;
+  }
+  .form-control[type="text"] {
+    padding: 0.375rem 0.75rem;
+  }
+  .form-control[type="file"] {
+    padding: 0.375rem 0.75rem;
+  }
+  .form-control[type="submit"] {
+    padding: 0.375rem 0.75rem;
+  }
+  .form-control[type="button"] {
+    padding: 0.375rem 0.75rem;
+  }
+  .form-control[type="reset"] {
+    padding: 0.375rem 0.75rem;
+  }
+  .form-control[type="select"] {
+    padding: 0.375rem 0.75rem;
+  }
+  .form-control[type="textarea"] {
+    padding: 0.375
+  }
+  .retour{
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    width:100%;
+  }
+
+
+</style>
+{% endblock %}
+{% block content %}
+ <main class="container">
+    <h1>Inscription</h1>
+    <form action="{{ url('/Auth/inscription') }}" method="post"  enctype="multipart/form-data">
+      <div class="mb-3">
+        <label class="form-label">Email <span class="required-info">*</span> :</label>
+        <input name="email" type="email" class="form-control" required>
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Mot de passe <span class="required-info">*</span> :</label>
+        <input name="password" type="password" class="form-control w-80" required>
+        <small class="text_black">Votre mot de passe ne doit pas contenir &amp;, ", ',&lt;,> </small>
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Nom d'utilisateur <span class="required-info">*</span> :</label>
+        <input name="display_name" type="text" class="form-control " required>
+      </div>
+      <div class="mb-3">
+        <label class="form-label" for="avatar">Genre :</label>
+        <select name="genre" id="avatar" class="form-control">
+            <option value="" disabled selected>Sélectionnez votre genre</option>
+            <option value="homme">Homme</option>
+            <option value="femme">Femme</option>
+            <option value="autre">Autre</option>
+        </select>
+      </div>
+      <div class="mb-3">
+        <label class="form-label" for="dateNaissance">Date de naissance <span class="required-info">*</span> :</label>
+        <input name="dateNaissance" type="date" class="form-control" id="dateNaissance" required>
+      </div>
+      <p class="text-danger fs-6">Les données marquées d'une astérisque sont obligatoires.</p>
+      <div class="mb-3 retour">
+        <button type="submit" class="btn btn-primary">Validation</button>
+        <a href="{{ url('/') }}" class="btn btn-primary ">annuler</a>
+      </div>
+    </form>
+  </main>
+  {% endblock %}

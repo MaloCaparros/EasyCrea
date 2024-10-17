@@ -1,0 +1,895 @@
+[2024-10-15 11:26:47]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@connection',
+        2 => array(),
+    )
+    exception-line: 59
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 11:26:59]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@connection',
+        2 => array(),
+    )
+    exception-line: 59
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 11:38:06]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@connection',
+        2 => array(),
+    )
+    exception-line: 227
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\vendor\twig\twig\src\Loader\FilesystemLoader.php'
+    exception-code: 'Unable to find template "/Auth/connectionadmin.html.twig" (looked into: C:\xampp-www\EasyCrea\starter-mvc\src\View).'
+[2024-10-15 11:39:25]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@connection',
+        2 => array(),
+    )
+    exception-line: 227
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\vendor\twig\twig\src\Loader\FilesystemLoader.php'
+    exception-code: 'Unable to find template "/Auth/connectionadmin.html.twig" (looked into: C:\xampp-www\EasyCrea\starter-mvc\src\View).'
+[2024-10-15 11:40:59]	[ALERT]	404 - commande non existante :: /Auth/connexionadmin
+[2024-10-15 11:41:47]	[ALERT]	404 - commande non existante :: /Auth/connexionadmin
+[2024-10-15 11:46:56]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@index',
+        2 => array(),
+    )
+    exception-line: 20
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 11:47:06]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@index',
+        2 => array(),
+    )
+    exception-line: 20
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 11:47:07]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@index',
+        2 => array(),
+    )
+    exception-line: 20
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 11:47:08]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@index',
+        2 => array(),
+    )
+    exception-line: 20
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 11:47:25]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@index',
+        2 => array(),
+    )
+    exception-line: 21
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 11:50:02]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@index',
+        2 => array(),
+    )
+    exception-line: 20
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 11:50:17]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'index@index',
+        2 => array(),
+    )
+    exception-line: 22
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\IndexController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 11:54:51]	[ALERT]	404 - commande non existante :: /adminaccueil
+[2024-10-15 12:01:48]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 20
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 12:05:07]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 20
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 12:05:19]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 20
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 12:06:36]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 20
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 12:06:54]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 20
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 12:07:26]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 20
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 12:07:26]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 20
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 12:07:32]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 20
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 12:08:49]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 20
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 12:12:08]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@verification',
+        2 => array(),
+    )
+    exception-line: 24
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 12:16:18]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@verification',
+        2 => array(),
+    )
+    exception-line: 24
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 12:16:27]	[ALERT]	404 - commande non existante :: /index$
+[2024-10-15 12:16:37]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@verification',
+        2 => array(),
+    )
+    exception-line: 24
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 13:12:34]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'deck@index',
+        2 => array(),
+    )
+    exception-line: 227
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\vendor\twig\twig\src\Loader\FilesystemLoader.php'
+    exception-code: 'Unable to find template "indexdeck.html.twig" (looked into: C:\xampp-www\EasyCrea\starter-mvc\src\View).'
+[2024-10-15 13:13:33]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'deck@index',
+        2 => array(),
+    )
+    exception-line: 227
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\vendor\twig\twig\src\Loader\FilesystemLoader.php'
+    exception-code: 'Unable to find template "admincreadeck.html.twig" (looked into: C:\xampp-www\EasyCrea\starter-mvc\src\View).'
+[2024-10-15 13:40:05]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 21
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 13:40:15]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@connection',
+        2 => array(),
+    )
+    exception-line: 70
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined array key "id_admin"'
+[2024-10-15 13:42:33]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 21
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 13:42:44]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 21
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 13:43:00]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 21
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 13:43:01]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 21
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 13:43:27]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 21
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 13:46:44]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 21
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 13:46:57]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 230
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= '2024-10-15'' at line 1'
+[2024-10-15 13:47:01]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 230
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= '2024-10-15'' at line 1'
+[2024-10-15 13:47:01]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 230
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= '2024-10-15'' at line 1'
+[2024-10-15 13:47:01]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 230
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= '2024-10-15'' at line 1'
+[2024-10-15 13:47:01]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 230
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= '2024-10-15'' at line 1'
+[2024-10-15 13:47:57]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 230
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= '2024-10-15'' at line 1'
+[2024-10-15 13:52:09]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 21
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 13:52:49]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 21
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 13:52:52]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 21
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 13:52:53]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 21
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 13:52:53]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 21
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 13:52:53]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 21
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 13:54:44]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 22
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 13:58:59]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 22
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 13:59:14]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 22
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 14:01:55]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 22
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 14:02:46]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 22
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 14:02:59]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 22
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 14:08:11]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 21
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 14:08:14]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 21
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 14:08:14]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 21
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 14:08:14]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 21
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 14:08:15]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 21
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 14:08:15]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 21
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 14:08:15]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 21
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 14:08:37]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@index',
+        2 => array(),
+    )
+    exception-line: 22
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-15 14:50:54]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'deck@accueil',
+        2 => array(),
+    )
+    exception-line: 25
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\DeckController.php'
+    exception-code: 'Undefined array key "deck"'
+[2024-10-15 14:51:45]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'deck@accueil',
+        2 => array(),
+    )
+    exception-line: 25
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\DeckController.php'
+    exception-code: 'Undefined array key "deck"'
+[2024-10-15 14:52:08]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'deck@accueil',
+        2 => array(),
+    )
+    exception-line: 25
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\DeckController.php'
+    exception-code: 'Undefined array key "deck"'
+[2024-10-15 14:52:10]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'deck@accueil',
+        2 => array(),
+    )
+    exception-line: 25
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\DeckController.php'
+    exception-code: 'Undefined array key "deck"'
+[2024-10-15 14:52:10]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'deck@accueil',
+        2 => array(),
+    )
+    exception-line: 25
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\DeckController.php'
+    exception-code: 'Undefined array key "deck"'
+[2024-10-15 14:52:26]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'deck@accueil',
+        2 => array(),
+    )
+    exception-line: 25
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\DeckController.php'
+    exception-code: 'Undefined array key "deck"'
+[2024-10-15 17:30:30]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 37
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "deck"'
+[2024-10-15 17:31:32]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 37
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "deck"'
+[2024-10-15 17:36:14]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 36
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "deck"'
+[2024-10-15 17:36:44]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 36
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "deck"'
+[2024-10-15 17:37:08]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 36
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "deck"'
+[2024-10-15 17:58:18]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'deck@accueil',
+        2 => array(),
+    )
+    exception-line: 5
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\accueil.html.twig'
+    exception-code: 'Unexpected "decks" tag (expecting closing tag for the "block" tag defined near line 5).'
+[2024-10-15 18:06:04]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 36
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "valeurs_choix1"'
+[2024-10-15 18:08:09]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 37
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "valeurs_choix1"'
+[2024-10-15 18:09:45]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 39
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "valeurs_choix1"'
+[2024-10-15 18:16:18]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 38
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "valeurs_choix1"'
+[2024-10-15 18:17:30]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'text_carte' in 'field list''
+[2024-10-15 18:17:40]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'text_carte' in 'field list''
+[2024-10-15 18:19:14]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'text_carte' in 'field list''
+[2024-10-15 18:22:40]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'text_carte' in 'field list''
+[2024-10-15 18:23:08]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'text_carte' in 'field list''
+[2024-10-15 18:34:15]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'text_carte' in 'field list''
+[2024-10-15 18:36:08]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'text_carte' in 'field list''
+[2024-10-15 18:37:22]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'text_carte' in 'field list''
+[2024-10-15 18:38:21]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'text_carte' in 'field list''
+[2024-10-15 18:38:50]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'text_carte' in 'field list''
+[2024-10-15 18:41:32]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'text_carte' in 'field list''
+[2024-10-15 18:41:59]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'text_carte' in 'field list''
+[2024-10-15 18:42:30]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'titre_carte' in 'field list''
+[2024-10-15 18:49:06]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 81
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-15 18:50:35]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 81
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-15 18:50:37]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 81
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-15 18:50:37]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 81
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-15 18:50:37]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 81
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-15 18:50:46]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 81
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-15 18:59:06]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'Array to string conversion'
+[2024-10-15 19:01:36]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'Array to string conversion'
+[2024-10-15 19:07:37]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_decks' in 'where clause''
+[2024-10-15 19:08:59]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'Array to string conversion'
+[2024-10-15 19:21:13]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 81
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "nb_cartes"'

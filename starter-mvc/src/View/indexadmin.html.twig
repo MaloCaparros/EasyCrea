@@ -1,0 +1,14 @@
+{% extends 'layout.html.twig' %}
+{% block title %}Liste - {{parent()}}{% endblock %}
+{% block content %}
+<h1>Administrateur</h1>
+
+{% if isVerifie %}
+    <p>Vous avez déjà un deck en cours.</p>
+    <a  href="{{ url('/avantaccueil') }}" class="btn btn-primary m-4">Voir le deck</a>
+{% else %}
+    <a href="{{ url('/admincreadeck') }}" class="btn btn-primary m-4">Créer un deck</a>
+{% endif %}
+
+
+{% endblock %}

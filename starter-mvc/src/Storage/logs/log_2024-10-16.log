@@ -1,0 +1,1111 @@
+[2024-10-16 10:25:01]	[ALERT]	404 - commande non existante :: /avantaccueil
+[2024-10-16 10:26:45]	[ALERT]	404 - commande non existante :: /avantaccueil
+[2024-10-16 10:27:55]	[ALERT]	404 - commande non existante :: /avantaccueil
+[2024-10-16 10:37:55]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 45
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "carteAleatoire"'
+[2024-10-16 10:38:08]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'Array to string conversion'
+[2024-10-16 10:38:55]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'Array to string conversion'
+[2024-10-16 10:38:57]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 236
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Model\Model.php'
+    exception-code: 'Array to string conversion'
+[2024-10-16 10:40:28]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 48
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "id_deck"'
+[2024-10-16 10:40:39]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 48
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "id_deck"'
+[2024-10-16 10:44:15]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 11
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\accueil.html.twig'
+    exception-code: 'Unexpected "carte" tag (expecting closing tag for the "for" tag defined near line 10).'
+[2024-10-16 10:44:56]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 11
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\accueil.html.twig'
+    exception-code: 'Unexpected "carte" tag (expecting closing tag for the "for" tag defined near line 10).'
+[2024-10-16 10:46:07]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 11
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\accueil.html.twig'
+    exception-code: 'Unexpected "carte" tag (expecting closing tag for the "for" tag defined near line 10).'
+[2024-10-16 10:47:31]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 11
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\accueil.html.twig'
+    exception-code: 'Unexpected "carte" tag (expecting closing tag for the "for" tag defined near line 10).'
+[2024-10-16 10:47:43]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 11
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\accueil.html.twig'
+    exception-code: 'Unexpected "carte" tag (expecting closing tag for the "for" tag defined near line 10).'
+[2024-10-16 10:48:57]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 11
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\accueil.html.twig'
+    exception-code: 'Unexpected "carte" tag (expecting closing tag for the "for" tag defined near line 10).'
+[2024-10-16 10:52:01]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 11
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\accueil.html.twig'
+    exception-code: 'Unexpected "carte" tag (expecting closing tag for the "for" tag defined near line 10).'
+[2024-10-16 11:04:37]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 49
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "num_carte"'
+[2024-10-16 11:04:47]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 49
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key 0'
+[2024-10-16 11:19:48]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 50
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-16 11:21:00]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 50
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-16 11:22:48]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 51
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-16 11:23:02]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 51
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-16 11:23:11]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 51
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-16 11:23:20]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 51
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-16 11:24:58]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 51
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-16 11:25:20]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 51
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-16 11:44:21]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 122
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 11:45:30]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 122
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 11:47:17]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 122
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 11:48:45]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 51
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-16 11:49:10]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 51
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-16 11:50:08]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 51
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-16 11:54:44]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 123
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 11:56:46]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 111
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined global variable $_SESSION'
+[2024-10-16 11:57:52]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 51
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-16 11:58:02]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 51
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-16 11:59:09]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 51
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-16 11:59:19]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 51
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-16 12:00:41]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 51
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-16 12:07:06]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 52
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-16 12:07:19]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 52
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-16 12:07:31]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 51
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-16 12:09:48]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 51
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-16 12:09:57]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 51
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-16 12:12:55]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 51
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-16 12:13:58]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 56
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "admin_id"'
+[2024-10-16 12:16:08]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:16:20]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:19:39]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:19:51]	[ALERT]	404 - commande non existante :: /indeadmin
+[2024-10-16 12:20:29]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:22:44]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 153
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-16 12:24:15]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 136
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:25:15]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 136
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:25:20]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 136
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:25:20]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 136
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:28:17]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 136
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:29:18]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 136
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:29:35]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 136
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:29:37]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 136
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:29:37]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 136
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:29:37]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 136
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:29:51]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 158
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:30:09]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 169
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:33:28]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 184
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-16 12:35:06]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 183
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-16 12:37:53]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 139
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined variable $id_admin'
+[2024-10-16 12:45:25]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 188
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-16 12:48:56]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 187
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-16 12:49:48]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 188
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-16 12:54:01]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:54:03]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:54:04]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:54:04]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:54:04]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:54:05]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:54:05]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:54:05]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:54:05]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:54:05]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:54:32]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:55:07]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:55:08]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:55:08]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:55:41]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:55:41]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:55:41]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:55:41]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:55:41]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:55:41]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:55:42]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:55:50]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:56:43]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 12:56:57]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 137
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 13:09:19]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 183
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined variable $exists'
+[2024-10-16 13:11:16]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 182
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined variable $exists'
+[2024-10-16 13:11:24]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 182
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined variable $exists'
+[2024-10-16 13:12:47]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 139
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 13:13:11]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 139
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 13:13:20]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 139
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 13:13:31]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 139
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 13:13:45]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 139
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 13:14:06]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 139
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 13:14:12]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 139
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 13:15:03]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 138
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 13:15:20]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 138
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 13:15:26]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 138
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 13:15:48]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 136
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 13:15:55]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 136
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 13:16:31]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 136
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 13:16:40]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 136
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 13:43:39]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 50
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\accueil.html.twig'
+    exception-code: 'Unexpected "endblock" tag (expecting closing tag for the "if" tag defined near line 46).'
+[2024-10-16 13:43:48]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 50
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\accueil.html.twig'
+    exception-code: 'Unexpected "endblock" tag (expecting closing tag for the "if" tag defined near line 46).'
+[2024-10-16 13:57:45]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 50
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\accueil.html.twig'
+    exception-code: 'Unexpected "endblock" tag (expecting closing tag for the "if" tag defined near line 46).'
+[2024-10-16 13:57:53]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 50
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\accueil.html.twig'
+    exception-code: 'Unexpected "endblock" tag (expecting closing tag for the "if" tag defined near line 46).'
+[2024-10-16 13:58:45]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 50
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\accueil.html.twig'
+    exception-code: 'Unexpected "endblock" tag (expecting closing tag for the "if" tag defined near line 46).'
+[2024-10-16 13:58:55]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 50
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\View\accueil.html.twig'
+    exception-code: 'Unexpected "endblock" tag (expecting closing tag for the "if" tag defined near line 46).'
+[2024-10-16 14:55:08]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@creation',
+        2 => array(),
+    )
+    exception-line: 116
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key "decks"'
+[2024-10-16 15:52:18]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 199
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key 0'
+[2024-10-16 15:55:53]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 200
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key 0'
+[2024-10-16 15:56:05]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 200
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key 0'
+[2024-10-16 15:58:15]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 202
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key 0'
+[2024-10-16 15:58:22]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 202
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined array key 0'
+[2024-10-16 16:05:12]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 254
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-16 16:18:47]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@accueil',
+        2 => array(),
+    )
+    exception-line: 58
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Array to string conversion'
+[2024-10-16 16:35:02]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'admin@connection',
+        2 => array(),
+    )
+    exception-line: 81
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AdminController.php'
+    exception-code: 'Trying to access array offset on value of type null'
+[2024-10-16 16:39:14]	[ALERT]	404 - erreur dans le processus de traitement du routage
+    routeInfo: array(
+        0 => 1,
+        1 => 'accueil@ajoutaleatoire',
+        2 => array(),
+    )
+    exception-line: 253
+    exception-file: 'C:\xampp-www\EasyCrea\starter-mvc\src\Controller\AccueilController.php'
+    exception-code: 'Undefined variable $id_crea'

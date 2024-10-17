@@ -1,0 +1,165 @@
+{% extends 'layout.html.twig' %}
+{% block css %}
+<style>
+    .titre {
+        text-align: center;
+        margin-bottom: 1rem;
+        background-color:#FFC0CB;
+        padding:10px;
+    }
+    .choix_alea {
+        border: 1px solid #000000;
+        padding: 2px;
+        margin-bottom: 10px;
+        background-color: #f0f0f0;
+    }
+    .choix_alea textarea {
+        margin:0;
+        padding: 10px;
+        height: 20vh;
+        width:100%;
+        text-align:center;
+        font-weight: normal;
+        border:none;
+        background-color: #f0f0f0;
+
+    }
+    .valeur {
+        width:100%;
+        justify-content: space-between;
+        display:flex;
+    }
+    .valeur p {
+      margin:0;
+    }
+
+    .autre_choix {
+        border: 1px solid #000000;
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 1rem;
+    }
+    .autre_choix p {
+        margin:0;
+    }
+    .mb-3{
+      width:80%;
+    }
+    .text_formulaire {
+        width: 100%;
+        height: 100px;
+        background-color: #FFC0CB;
+        border-bottom: 3px solid #000000;  
+        border-top:none;
+        border-left:none;
+        border-right:none;
+        line-height: normal;
+    }
+    .text_formulaire::placeholder {
+        transform: translateY(-35px);
+    }
+    .valeur{
+        display: flex;
+        justify-content: space-between;
+    }
+    .btn{
+      display:flex;
+      justify-content: center;
+      width:50%;
+    }
+    form{
+      display:flex;
+      flex-direction:column;
+      justify-content: center;
+      align-items: center;
+    }
+    .text_info{
+      text-align:center;
+    }
+    .retour{
+      display:flex;
+      align-items:center;
+      flex-direction:column;
+      width:100%;
+    }
+    .bouton{
+      color:black;
+      background-color:#00008B;
+      text-decoration:none;
+      width:50%;
+      text-align:center;
+      padding:2px;
+      border-radius:5px;
+      color:white;
+    }
+    .bouton:hover{
+      background-color:#87CEFA;
+      color:black;
+    }
+
+</style>
+{% endblock %}
+{% block title %}Liste - {{ parent() }}{% endblock %}
+
+{% block content %}
+{% if vide %}
+  <h1 class="titre">
+  {% for deck in decks %}
+      Titre du deck : {{ deck.titre_deck }} <!-- Affiche le titre de chaque deck -->
+  {% endfor %}
+  </h1>
+  {% for carte in cartes %}
+          {% if carte.ordre_soumission == carteAleatoire.num_carte %}
+          <div class="choix_alea">
+              <textarea>{{ carte.texte_carte }}</textarea>
+              <div class="valeur">
+              <p>{{ carte.valeurs_choix1 }}</p>
+              <p>{{ carte.valeurs_choix2 }}</p>
+              </div>
+          </div>   
+          {% else %}
+          <div class="autre_choix">
+              <p>Carte numéro : {{ carte.ordre_soumission }}</p>
+          </div>    
+          {% endif %}
+  {% endfor %}
+  
+  {% if verifie %}
+  <form action="{{ url('/creacarte') }}" method="post" class="w-100" enctype="multipart/form-data">
+        <div class="mb-3">
+          <input name="text_carte" type="text" class="text_formulaire" minlength="50" maxlength="280" placeholder="Entrez un texte entre 50 et 280 caractères" required>
+        </div>
+        <div class="valeur">
+          <div class="mb-3">
+            <input name="valeurs_choix1" type="int" class="form-control" id="val1" placeholder="Population" required>
+          </div>
+          <div class="mb-3">
+            <input name="valeurs_choix2" type="int" class="form-control" id="val15" placeholder="Finances" required>
+          </div>
+        </div>
+        <div class="valeur">
+          <div class="mb-3">
+            <input name="valeurs_choix3" type="int" class="form-control" id="val1" placeholder="Population"  required>
+          </div>
+          <div class="mb-3">
+            <input name="valeurs_choix4" type="int" class="form-control" id="val1" placeholder="Finances" required>
+          </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Sauvegarder</button>
+        <a href="{{ url('/') }}" class="btn btn-link text-black">annuler</a>
+      </form>
+
+      {% else %}
+      <div class="retour">
+        <p class="text_info">Vous avez déjà créé une carte</p>
+        <a href="{{ url('/') }}" class="bouton">Retour à la page de connexion</a>
+      </div>
+  {% endif %}
+  {% else %}
+  <p class="">Désolé il n'y a pas de deck accessible pour le moment, revient plus tard</p>
+  <a href="{{ url('/') }}" class="btn btn-link text-black">Retour à la page de connexion</a>
+{% endif %}
+
+
+{% endblock %}
