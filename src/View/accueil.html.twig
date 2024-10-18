@@ -147,18 +147,18 @@
         </div>
 
         <button type="submit" class="btn btn-primary">Sauvegarder</button>
-        <a href="{{ url('/') }}" class="btn btn-link text-black">annuler</a>
+        <a href="{{ url('/') }}" class="btn btn-link text-black">Se déconnecter</a>
       </form>
 
       {% else %}
       <div class="retour">
         <p class="text_info">Vous avez déjà créé une carte</p>
-        <a href="{{ url('/') }}" class="bouton">Retour à la page de connexion</a>
+        <a href="{{ url('/') }}" class="bouton">Se déconnecter</a>
       </div>
   {% endif %}
   {% else %}
   <p class="">Désolé il n'y a pas de deck accessible pour le moment, revient plus tard</p>
-  <a href="{{ url('/') }}" class="btn btn-link text-black">Retour à la page de connexion</a>
+  <a href="{{ url('/') }}" class="btn btn-link text-black">Se déconnecter</a>
 {% endif %}
 
 
