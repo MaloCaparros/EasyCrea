@@ -1,24 +1,14 @@
 <?php
-/*
-  Fichier : src/config/config.prod.php
-*/
 
 
-define('DB_NAME', 'mcaparros_easycrea');
+define('APP_DB_DSN', 'mysql:host=mysql-mcaparros.alwaysdata.net;dbname=mcaparros_easycrea;charset=UTF8');
 
-/** Utilisateur de la base de données MySQL. */
-define('DB_USER', 'mcaparros');
 
-/** Mot de passe de la base de données MySQL. */
-define('DB_PASSWORD', '.Nvup_+2:.%.w=');
 
-/** Adresse de l’hébergement MySQL. */
-define('DB_HOST', 'mysql-mcaparros.alwaysdata.net');
+define('APP_DB_USER', 'mcaparros');
 
-/** Jeu de caractères à utiliser par la base de données lors de la création des tables. */
-define('DB_CHARSET', 'utf8');
 
-/**
- * le préfixe des tables dans la base (utile pour les bases partagées)
- */
+define('APP_DB_PASSWORD', '.Nvup_+2:.%.w=');
+
 define('APP_TABLE_PREFIX', '');
+
