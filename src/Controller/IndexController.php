@@ -49,7 +49,7 @@ class IndexController extends Controller
                     return;
                 } else {
                     // Mot de passe incorrect
-                    $this->display('/auth/connection.html.twig', ['error' => 'Mot de passe incorrect pour créateur.']);
+                    HTTP::redirect('/');
                 }
             }
                   
