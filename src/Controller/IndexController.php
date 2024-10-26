@@ -52,6 +52,9 @@ class IndexController extends Controller
                     HTTP::redirect('/');
                 }
             }
+            if(!$createur){
+                HTTP::redirect('/');
+            }
                   
         }
     }
